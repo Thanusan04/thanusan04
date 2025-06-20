@@ -13,6 +13,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Lifelong Learner
 
 ### 🌟 About Me
 
+- 🎓 BSc (Hons) in Information Technology, Specialising in Data Science
 - 🎓 Aspiring Data Scientist
 - 🤖 Passionate about Machine Learning & AI
 - 📊 Love working with data to uncover insights
