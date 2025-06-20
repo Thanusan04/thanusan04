@@ -1,53 +1,67 @@
-<h1 align="center">Hi 👋, I'm Thanusan</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Always Curious</h3>
+<!--
+Hi there, I'm Thanusan 👋
+Aspiring Data Scientist | Machine Learning Enthusiast | Lifelong Learner
+-->
 
-## 🧠 About Me
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Thanusan!&fontSize=40&fontAlignY=30)
 
-I'm a passionate learner who enjoys working with data, building intelligent systems, and solving real-world problems through code and insights.
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/sql.png" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Lifelong+Learner;Always+Curious!">
 </p>
 
-## 📊 Data Science & Machine Learning
+---
 
+### 🌟 About Me
+
+- 🎓 Aspiring Data Scientist
+- 🤖 Passionate about Machine Learning & AI
+- 📊 Love working with data to uncover insights
+- 🌱 Currently learning: Deep Learning & NLP
+- 📝 I write about data science and share projects
+
+---
+
+### 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" />
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-a-python-machine-learning-library-logo-color-tal-revivo.png" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" />
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" />
-  <img src="https://img.icons8.com/ios/48/000000/jupyter.png" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-E5E5E5?style=for-the-badge&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3B4D54?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## 🧰 Development Tools
+---
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/000000/anaconda--v2.png" />
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/notion.png" />
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" />
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanusan04&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thanusan04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150">
 </p>
 
-## 🌱 Currently Learning
+---
 
-- Deep Learning (CNNs, RNNs, Transformers)  
-- Tableau & Power BI  
-- Streamlit & Flask for deployment
+### 🚀 Projects
 
-## 📫 Connect with Me
+- [Project 1: Predicting House Prices](https://github.com/Thanusan04/house-price-prediction)
+- [Project 2: Sentiment Analysis NLP](https://github.com/Thanusan04/sentiment-analysis-nlp)
+- [Project 3: Customer Churn Prediction](https://github.com/Thanusan04/customer-churn)
 
-- GitHub: [@Thanusan04](https://github.com/Thanusan04)  
+---
 
-<p align="center">Thanks for visiting! 🚀</p>
+### 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
+---
+
+<!--
+✨ "Data is the new oil." ✨
+-->
