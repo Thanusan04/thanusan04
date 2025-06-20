@@ -10,7 +10,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 Passionate AI & Full Stack Developer with experience across software engineering, data analysis, and data science.
-- 🎓 Degree in [Your Degree, e.g., Computer Science, Software Engineering].
+- 🎓 Degree in Bachelor of Information Technology- University of Moratuwa
 - 🤖 Specializing in Machine Learning, Deep Learning, and NLP.
 - 🛠️ Skilled in building web/mobile/data-driven applications from end to end.
 - 📊 Love solving real-world problems using data and AI.
