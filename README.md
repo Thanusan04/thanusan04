@@ -1,6 +1,11 @@
 <!-- Header and Greeting -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Thanusan!&fontSize=40&fontAlignY=30)
 
+<!-- 💻 Full Stack GIF with Black Background -->
+<p align="center" style="background-color:black;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w2OHoxc2h3b2QwZzA5bGJybTYzaGRicGc3Z3lxNnF2cGk1Z3N3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full Stack Developer GIF" width="220" style="background-color:black; border-radius:10px;"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+Developer;Full+Stack+Developer;Software+Engineer;Data+Scientist;Data+Analyst;Always+Learning!">
 </p>
