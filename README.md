@@ -47,8 +47,6 @@ I'm a passionate learner who enjoys working with data, building intelligent syst
 ## 📫 Connect with Me
 
 - GitHub: [@Thanusan04](https://github.com/Thanusan04)  
-- LinkedIn: *(add your LinkedIn profile here)*  
-- Portfolio: *(add your website or GitHub Pages if available)*
 
 <p align="center">Thanks for visiting! 🚀</p>
 
