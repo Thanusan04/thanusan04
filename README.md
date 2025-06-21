@@ -27,10 +27,10 @@
 ## 🏢 Internships
 
 - **Artificial Intelligence and Data Analytics Intern**  
-  _Contributed to the development and deployment of machine learning models for real-world business use cases. Analyzed datasets, built predictive models, and collaborated with cross-functional teams to deliver actionable insights._
+  _Developed and deployed machine learning models for real-world use cases. Performed data preprocessing, analysis, and predictive modeling using Python and key ML libraries._
 
 - **UI/UX Design Intern**  
-  _Designed intuitive user interfaces and user experiences for web and mobile applications. Conducted user research, created wireframes and prototypes, and worked closely with developers to ensure seamless implementation._
+  _Designed intuitive, user-focused interfaces for web and mobile applications. Created wireframes and prototypes, and collaborated with developers to ensure smooth implementation.._
 
 ---
 
