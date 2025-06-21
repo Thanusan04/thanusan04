@@ -3,7 +3,7 @@
 
 <!-- 💻 Full Stack GIF with Black Background -->
 <p align="center" style="background-color:black;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w2OHoxc2h3b2QwZzA5bGJybTYzaGRicGc3Z3lxNnF2cGk1Z3N3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full Stack Developer" height="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w2OHoxc2h3b2QwZzA5bGJybTYzaGRicGc3Z3lxNnF2cGk1Z3N3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full Stack Developer GIF" width="400"/>
 </p>
 
 <p align="center">
@@ -36,6 +36,10 @@
 - **Machine Learning Specialization Certificate**  
   _Andrew Ng, Stanford University_  
    [View Certificate](https://coursera.org/share/a828bf183eb9bb63501e4db268668e44)
+
+- **Crash Course on Python**  
+  _Google_  
+  [View Certificate](https://coursera.org/share/fbc1ca501a4a7441685fc4676879f662)
 
 ---
 
