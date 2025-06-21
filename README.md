@@ -3,7 +3,7 @@
 
 <!-- 💻 Full Stack GIF with Black Background -->
 <p align="center" style="background-color:black;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w2OHoxc2h3b2QwZzA5bGJybTYzaGRicGc3Z3lxNnF2cGk1Z3N3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full Stack Developer GIF" width="220" style="background-color:black; border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w2OHoxc2h3b2QwZzA5bGJybTYzaGRicGc3Z3lxNnF2cGk1Z3N3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full Stack Developer" height="200">
 </p>
 
 <p align="center">
@@ -21,6 +21,21 @@
 - 📊 Love solving real-world problems using data and AI.
 - 🌱 Currently exploring Generative AI & Cloud Solutions.
 - ✍️ Sharing knowledge via blogs and open-source projects.
+
+---
+
+## 🏢 Internships
+
+- **Artificial Intelligence and Data Analytics Intern**
+- **UI/UX Design Intern**
+
+---
+
+## 📜 Certifications
+
+- **Machine Learning Specialization Certificate**  
+  _Andrew Ng, Stanford University_  
+   [View Certificate](https://coursera.org/share/a828bf183eb9bb63501e4db268668e44)
 
 ---
 
