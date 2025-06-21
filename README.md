@@ -33,7 +33,7 @@
 
 ## 📜 Certifications
 
-- **Machine Learning Specialization Certificate**  
+- **Machine Learning Specialization**  
   _Andrew Ng, Stanford University_  
    [View Certificate](https://coursera.org/share/a828bf183eb9bb63501e4db268668e44)
 
